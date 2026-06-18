@@ -1,0 +1,26 @@
+class Solution {
+public:
+    string longestCommonPrefix(vector<string>& strs) {
+        if(strs.empty()){
+           return "";
+        }
+        sort(strs.begin(),strs.end());
+          string first = strs[0];
+
+        // Last string in sorted order
+        string last = strs[strs.size() - 1];
+         string ans = "";
+
+        // Compare up to the length of the shorter string
+        int minLength = min(first.size(), last.size());
+
+        // Compare characters of first and last string
+        for (int i = 0; i < minLength; i++) {
+            // Stop if characters differ
+            if (first[i] != last[i]) break;
+
+            // Add matching character to answer
+            ans += first[i];
+        } return ans;
+    }
+};
