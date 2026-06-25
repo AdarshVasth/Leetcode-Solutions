@@ -7,11 +7,13 @@ Solve it  for your  personal milestone so don't copy it
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0647-palindromic-substrings](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1392-longest-happy-prefix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
 ## Linked List
 |  |
@@ -29,4 +31,8 @@ Solve it  for your  personal milestone so don't copy it
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
