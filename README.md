@@ -6,6 +6,7 @@ Solve it  for your  personal milestone so don't copy it
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## String
@@ -48,4 +49,12 @@ Solve it  for your  personal milestone so don't copy it
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
