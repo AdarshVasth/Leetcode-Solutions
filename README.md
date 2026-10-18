@@ -50,6 +50,7 @@ Solve it  for your  personal milestone so don't copy it
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
