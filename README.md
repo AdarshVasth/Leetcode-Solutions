@@ -71,6 +71,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [1920-build-array-from-permutation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -98,4 +99,5 @@ Solve it  for your  personal milestone so don't copy it
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
