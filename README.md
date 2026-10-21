@@ -70,6 +70,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0075-sort-colors](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [1480-running-sum-of-1d-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -100,4 +101,8 @@ Solve it  for your  personal milestone so don't copy it
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
