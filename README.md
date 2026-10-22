@@ -22,6 +22,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0647-palindromic-substrings](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 | [1392-longest-happy-prefix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1392-longest-happy-prefix) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Divide and Conquer
 |  |
 | ------- |
