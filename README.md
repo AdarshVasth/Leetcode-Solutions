@@ -72,6 +72,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -108,6 +109,7 @@ Solve it  for your  personal milestone so don't copy it
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
