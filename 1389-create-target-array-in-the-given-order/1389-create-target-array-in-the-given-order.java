@@ -10,6 +10,12 @@ class Solution {
             target.add(index[i], nums[i]);
         }
 
-        return target.stream().mapToInt(Integer::intValue).toArray();
+        int[] result = new int[n];
+
+        for (int i = 0; i < n; i++) {
+            result[i] = target.get(i);
+        }
+
+        return result;
     }
 }
