@@ -54,6 +54,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0050-powx-n](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -73,6 +74,7 @@ Solve it  for your  personal milestone so don't copy it
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1920-build-array-from-permutation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -86,6 +88,7 @@ Solve it  for your  personal milestone so don't copy it
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -94,6 +97,7 @@ Solve it  for your  personal milestone so don't copy it
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [1512-number-of-good-pairs](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
