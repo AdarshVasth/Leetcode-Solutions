@@ -85,6 +85,7 @@ Solve it  for your  personal milestone so don't copy it
 | [1470-shuffle-the-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -111,6 +112,7 @@ Solve it  for your  personal milestone so don't copy it
 | ------- |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1854-maximum-population-year](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 ## Greedy
 |  |
 | ------- |
@@ -127,6 +129,7 @@ Solve it  for your  personal milestone so don't copy it
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1854-maximum-population-year](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
 ## Counting Sort
 |  |
 | ------- |
