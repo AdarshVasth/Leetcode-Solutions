@@ -83,6 +83,7 @@ Solve it  for your  personal milestone so don't copy it
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
@@ -148,5 +149,6 @@ Solve it  for your  personal milestone so don't copy it
 | ------- |
 | [0832-flipping-an-image](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
