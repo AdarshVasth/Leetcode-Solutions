@@ -75,6 +75,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0832-flipping-an-image](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -116,6 +117,7 @@ Solve it  for your  personal milestone so don't copy it
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -135,4 +137,5 @@ Solve it  for your  personal milestone so don't copy it
 |  |
 | ------- |
 | [0832-flipping-an-image](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
+| [0867-transpose-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
