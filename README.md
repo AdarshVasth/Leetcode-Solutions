@@ -72,6 +72,7 @@ Solve it  for your  personal milestone so don't copy it
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -99,6 +100,7 @@ Solve it  for your  personal milestone so don't copy it
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
