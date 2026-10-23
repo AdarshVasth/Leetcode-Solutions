@@ -86,6 +86,7 @@ Solve it  for your  personal milestone so don't copy it
 | [1480-running-sum-of-1d-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1854-maximum-population-year](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1854-maximum-population-year) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1920-build-array-from-permutation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Sorting
@@ -143,4 +144,5 @@ Solve it  for your  personal milestone so don't copy it
 | ------- |
 | [0832-flipping-an-image](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 <!---LeetCode Topics End-->
