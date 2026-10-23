@@ -47,6 +47,7 @@ Solve it  for your  personal milestone so don't copy it
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0647-palindromic-substrings) |
 ## Math
@@ -74,6 +75,7 @@ Solve it  for your  personal milestone so don't copy it
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
@@ -112,6 +114,7 @@ Solve it  for your  personal milestone so don't copy it
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
