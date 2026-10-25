@@ -77,6 +77,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0001-two-sum](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0162-find-peak-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
 | [0832-flipping-an-image](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
@@ -154,4 +155,8 @@ Solve it  for your  personal milestone so don't copy it
 | [0867-transpose-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
