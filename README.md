@@ -55,6 +55,7 @@ Solve it  for your  personal milestone so don't copy it
 | ------- |
 | [0009-palindrome-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0050-powx-n) |
+| [0268-missing-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -82,6 +83,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0162-find-peak-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0867-transpose-matrix) |
@@ -105,6 +107,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0075-sort-colors](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0179-largest-number) |
+| [0268-missing-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -112,6 +115,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0001-two-sum](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -150,6 +154,7 @@ Solve it  for your  personal milestone so don't copy it
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -164,6 +169,7 @@ Solve it  for your  personal milestone so don't copy it
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/AdarshVasth/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
